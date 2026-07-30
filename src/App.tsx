@@ -95,7 +95,7 @@ function App() {
       <button onClick={addEmployee}>Add Employee</button>
 
       <hr />
-
+<h2>Edit Feature</h2>
       <h2>Employee List</h2>
 
       {employees.length === 0 ? (
