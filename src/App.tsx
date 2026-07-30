@@ -7,7 +7,7 @@ interface Employee {
   role: string;
   salary: number;
 }
-
+<h1>Employee Management System 🔍 Search Feature</h1>
 function App() {
   const [name, setName] = useState("");
   const [role, setRole] = useState("");
