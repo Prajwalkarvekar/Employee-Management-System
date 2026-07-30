@@ -96,7 +96,11 @@ function App() {
 
       <hr />
 
+<<<<<<< HEAD
    <h1>Employee Management System - Main Branch</h1>
+=======
+<h1>Employee Management System - Branch A</h1>
+>>>>>>> conflict-demo
 
       {employees.length === 0 ? (
         <p>No Employees Found</p>
