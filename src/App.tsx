@@ -96,7 +96,7 @@ function App() {
 
       <hr />
 
-      <h2>Employee List</h2>
+<h1>Employee Management System - Branch A</h1>
 
       {employees.length === 0 ? (
         <p>No Employees Found</p>
