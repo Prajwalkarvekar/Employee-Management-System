@@ -17,7 +17,7 @@ function App() {
 
   // Runs only once when page loads
   useEffect(() => {
-    console.log("Employee Management System Loaded 🚀");
+    console.log("Employee Management System Loaded ");
   }, []);
 
   // Runs whenever employees change
@@ -96,7 +96,7 @@ function App() {
 
       <hr />
 
-      <h2>Employee List</h2>
+   <h1>Employee Management System - Main Branch</h1>
 
       {employees.length === 0 ? (
         <p>No Employees Found</p>
